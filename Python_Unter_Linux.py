@@ -7,4 +7,6 @@ alias p='python3'
 # Exit: strg + x
 # Die Datei aktivieren
 source ~/.zshrc
+# Überprüfen, ob es funktioniert: 
+p --version
 
